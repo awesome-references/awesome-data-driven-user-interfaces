@@ -7,6 +7,10 @@ A collection of various awesome data driven user interfaces and frameworks
 - [Frameworks](#Frameworks)
 - [Blogs and articles](#Blogs-and-articles)
 
+# Github projects
+
+* [Kotlin Multiplatform project with Clean Architecture](https://github.com/Syex/MoviesMPP)Kotlin Multiplatform project with Clean Architecture, aiming to only implement the view natively
+
 # Frameworks
 
 * [metaui](https://github.com/isuwang/metaui) a meta-data driven ui(web component based) framework
