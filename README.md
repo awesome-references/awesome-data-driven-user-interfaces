@@ -9,7 +9,7 @@ A collection of various awesome data driven user interfaces and frameworks
 
 # Github projects
 
-* [Kotlin Multiplatform project with Clean Architecture](https://github.com/Syex/MoviesMPP)Kotlin Multiplatform project with Clean Architecture, aiming to only implement the view natively
+* [Kotlin Multiplatform project with Clean Architecture](https://github.com/Syex/MoviesMPP), aiming to only implement the view natively
 
 # Frameworks
 
